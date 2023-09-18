@@ -1,3 +1,5 @@
+body{font-family: Arial, Helvetica, sans-serif;}
+
 header{background-image: url(../img/pattern.png);
 background-repeat: repeat-x;
 background-color: rgba(0, 0, 255, 0.60);
@@ -7,12 +9,15 @@ background-size: auto;}
 width: 35%;}
 
 h1{font-size: 40px;
-margin-right: 25%;
-font-family: Arial, Helvetica, sans-serif;}
+margin-right: 25%;}
 
 #speciale{color: blue;}
 
-.info{font-size: 20px;
-font-family: Arial, Helvetica, sans-serif;}
+.info{font-size: 20px;}
 
-#img-tim-1{width}
+#testo1{font-size: 18px;
+font-weight: 500;}
+
+.evidenziato{background-color: yellow;}
+
+li{font-size: 18px;}
