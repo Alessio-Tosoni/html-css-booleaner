@@ -15,9 +15,19 @@ margin-right: 25%;}
 
 .info{font-size: 20px;}
 
-#testo1{font-size: 18px;
+.testo{font-size: 18px;
 font-weight: 500;}
 
 .evidenziato{background-color: yellow;}
 
 li{font-size: 18px;}
+
+table{width: 70%;}
+
+thead{background-color:rgba(0, 0, 255, 0.8);
+color: white;}
+
+td{text-align: justify;
+font-size: 18px;}
+
+.dispari{background-color: rgba(0,0, 255, 0.25)}
